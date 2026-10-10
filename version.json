@@ -1,10 +1,10 @@
 {
-  "rev": 9,
-  "sha": "42464a072b800d59",
+  "rev": 10,
+  "sha": "a523f17dafe1b6ea",
   "kid": "m20260928",
-  "rel": "catalog/r9.json",
-  "catalog": "m20260928/catalog/r9.json.apx",
-  "publishedAt": "2026-10-09T18:25:34.617Z",
+  "rel": "catalog/r10.json",
+  "catalog": "m20260928/catalog/r10.json.apx",
+  "publishedAt": "2026-10-10T02:56:10.626Z",
   "files": 2799,
-  "bytes": 3295355544
+  "bytes": 3300841016
 }
