@@ -1,3 +1,3 @@
-# Apex City content
+# Apex City testing content
 
-Content the Apex City game downloads while you play. The files are sealed and are opened only by the game.
+Experimental model preview for internal testing builds only. This branch is not the production catalog. Content remains proprietary and sealed for the game.
