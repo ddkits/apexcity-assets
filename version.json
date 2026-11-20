@@ -1,10 +1,10 @@
 {
-  "rev": 28,
-  "sha": "3f2c04c2ec8586e8",
+  "rev": 29,
+  "sha": "a48dd3bf3efa82a3",
   "kid": "m20260928",
-  "rel": "catalog/r28.3f2c04c2ec8586e8.json",
-  "catalog": "m20260928/catalog/r28.3f2c04c2ec8586e8.json.apx",
-  "publishedAt": "2026-11-18T01:37:09.495Z",
-  "files": 9027,
-  "bytes": 4139983763
+  "rel": "catalog/r29.a48dd3bf3efa82a3.json",
+  "catalog": "m20260928/catalog/r29.a48dd3bf3efa82a3.json.apx",
+  "publishedAt": "2026-11-20T16:29:10.299Z",
+  "files": 9015,
+  "bytes": 4134106127
 }
